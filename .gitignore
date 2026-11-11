@@ -4,7 +4,8 @@
 !/resources
 !/requirements.txt
 !/*.ico
-!/csd-blackbox-icon.png
+!/*icon.png
+!/screenshot*.png
 !.gitignore
 
-git*.png
+git-icon.png
