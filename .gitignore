@@ -3,6 +3,8 @@
 !/csd-blackbox.py
 !/resources
 !/requirements.txt
+!/README.md
+!/license.txt   
 !/*.ico
 !/*icon.png
 !/screenshot*.png
