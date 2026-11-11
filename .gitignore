@@ -1,8 +1,10 @@
 /*
 
-!/resources
 !/csd-blackbox.py
+!/resources
+!/requirements.txt
 !/*.ico
 !/csd-blackbox-icon.png
-!/requirements.txt
 !.gitignore
+
+git*.png
